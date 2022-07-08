@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ryun&fontSize=90)
 
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">💡 Machine Learning & Deep Learning 💡</p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
