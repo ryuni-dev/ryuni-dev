@@ -5,7 +5,7 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyTorchLightning-792EE5?style=flat-square&logo=Pytorch&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=Pytorch&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">💡 Backend 💡</p>
 <p align="center">
