@@ -5,7 +5,7 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=Pytorch&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=Pytorch Lightning&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">💡 Backend 💡</p>
 <p align="center">
@@ -15,6 +15,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> &nbsp
