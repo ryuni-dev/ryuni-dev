@@ -24,8 +24,8 @@
 </p>
 <p align="center">💡 Frontend 💡</p>
 <p align="center">
-<img src="https://img.shields.io/badge/React-F7DF1E?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/NestJS-3178C6?style=flat-square&logo=NestJS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">💡 Other 💡</p>
 <p align="center">
