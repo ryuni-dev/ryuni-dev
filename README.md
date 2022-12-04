@@ -26,6 +26,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">💡 Other 💡</p>
 <p align="center">
