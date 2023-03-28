@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Hi!%I'm%ryuni"&fontSize=90&customColorList=19)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hi!%20I'm%20ryuni&fontSize=90&customColorList=19&fontColor=2C3639)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">💡 Machine Learning & Deep Learning 💡</p>
