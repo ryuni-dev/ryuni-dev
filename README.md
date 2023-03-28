@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&fontAlign=60&section=header&text=Hi!%20I'm%20ryuni%20:\)&fontSize=90&customColorList=19&fontColor=2C3639)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&fontAlign=50&section=header&text=Hi!%20I'm%20ryuni%20:\)&fontSize=90&customColorList=19&fontColor=2C3639)
 
 <!-- <h3 align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryuni-dev&count_bg=%23FF8787&title_bg=%233F4E4F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
