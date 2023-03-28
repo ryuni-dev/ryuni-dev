@@ -4,11 +4,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryuni-dev&count_bg=%23FF8787&title_bg=%233F4E4F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h3> -->
  <div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuni-dev&layout=compact&exclude_repo=COSE371_Database)](https://github.com/ryuni-dev/github-readme-stats)
 
 ![Ryuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuni-dev&show_icons=true&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuni-dev&layout=compact&exclude_repo=COSE371_Database&theme=swift)](https://github.com/ryuni-dev/github-readme-stats)
+ 
 </div>
+
 
 
 <!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
