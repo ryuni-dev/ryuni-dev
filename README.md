@@ -1,8 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&fontAlign=50&section=header&text=Hi!%20I'm%20ryuni%20:\)&fontSize=90&customColorList=19&fontColor=FF6363)
 
-<!-- <h3 align="center">
+
+<div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryuni-dev&count_bg=%23FF8787&title_bg=%233F4E4F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</h3> -->
+<a href="https://velog.io/@ryuni"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://ryuni.oopy.io/"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
+
+</div>
+
+<h3 align="center">:whale: Introduction</h3>
+<div align=center>
+안녕하세요! 엔지니어링으로 세상에 존재하는 다양한 문제를 해결하고 싶은 개발자 정경륜입니다.
+
+현재는 Data engineering과 MLOps에 관심을 가지고 공부하고 있습니다.🙂
+
+</div>
+
+
+
+<h3 align="center">:computer: About My Github</h3>
+
  <div align=center>
 
 ![Ryuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuni-dev&show_icons=true&theme=swift)
