@@ -3,8 +3,8 @@
 
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryuni-dev&count_bg=%23FF8787&title_bg=%233F4E4F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<a href="https://velog.io/@ryuni" target='_blank'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://ryuni.oopy.io/" target='_blank'><img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
+<a href="https://velog.io/@ryuni" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://ryuni.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
 
 </div>
 
