@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">:computer: About My Github</h3>
+<h3 align="center">:computer: About My GitHub</h3>
 
  <div align=center>
 
