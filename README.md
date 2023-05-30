@@ -13,7 +13,7 @@
 
 ### About me
 > **[ETRI](https://www.etri.re.kr/eng/main/main.etri),** Research Intern, *Jan. 2023 - Feb. 2023*
->  - Cyberbrain Lab, MLOps & DataOps
+>  - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps
 
 > **[Korea University](https://www.korea.edu/mbshome/mbs/en/index.do),** Seoul, Korea, *Mar. 2018 - Feb. 2024*
 > - Major in Computer Science and Engineering
