@@ -8,24 +8,34 @@
 
 </div>
 
-<h3 align="center">:whale: Introduction</h3>
-<div align=center>
-안녕하세요! 엔지니어링으로 세상에 존재하는 다양한 문제를 해결하고 싶은 개발자 정경륜입니다.
+<h4 align="center">Stay hungry, stay foolish.</h3>
+<!-- <div align=center> -->
 
-현재는 Data engineering과 MLOps에 관심을 가지고 공부하고 있습니다.🙂
+### About me
+> **[ETRI](https://www.etri.re.kr/eng/main/main.etri),** Research Intern, *Jan. 2023 - Feb. 2023*
+>  - Cyberbrain Lab, MLOps & DataOps
 
-</div>
+> **[Korea University](https://www.korea.edu/mbshome/mbs/en/index.do),** Seoul, Korea, *Mar. 2018 - Feb. 2024*
+> - Major in Computer Science and Engineering
 
+### I'm interested in 
+```
+🌊 Data Engineering
+🐳 MLOps
+```
 
+<!-- 안녕하세요! 엔지니어링으로 세상에 존재하는 다양한 문제를 해결하고 싶은 개발자 정경륜입니다.
 
-<h3 align="center">:computer: About My GitHub</h3>
+현재는 Data engineering과 MLOps에 관심을 가지고 공부하고 있습니다.🙂 -->
 
- <div align=center>
+### About my github
 
-![Ryuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuni-dev&show_icons=true&theme=swift)
+<!--  <div align=center> -->
+
+<!-- ![Ryuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuni-dev&show_icons=true&theme=swift) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuni-dev&layout=compact&exclude_repo=COSE371_Database&theme=swift)](https://github.com/ryuni-dev/github-readme-stats)
  
-</div>
+<!-- </div> -->
 
 
 
