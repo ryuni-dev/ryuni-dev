@@ -23,18 +23,13 @@
 
 
 > **[ETRI](https://www.etri.re.kr/eng/main/main.etri),** Research Intern, *Jan. 2023 - Feb. 2023*
->  - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps
->    
->  - Proposed and demonstrated the establishment of an ML Serving platform
->    - Constructed a platform using KServe, allowing for easy registration of machine learning models on the web and obtaining endpoints effortlessly.
->    - Utilized technologies such as KServe, Kubernetes (K8s), FastAPI, and NextJS.
-> - Developed and tested workflow code for use in the SODAS+ Open Data Analysis Platform
+> - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps
+> - Proposed and demonstrated the establishment of an ML Serving platform
+>   - Constructed a platform using KServe, allowing for easy registration of machine learning models on the web and obtaining endpoints effortlessly.
 > - Created a Python SDK for improved accessibility to data storage within the research lab
 >   - Reduced previously repetitive 30-40 lines of code to a single line.
 > - Established and connected a data visualization server within the SODAS+ Open Data Analysis Platform
->   - Employed Python, Streamlit, React, and Kubernetes (K8s) for this purpose.
 > - Built an Infrastructure Documentation site for the research lab
->   - Utilized React and Docusaurus for the development.
 > - Conducted research on the Solid Protocol and topics related to data sovereignty.
 
 > **[Korea University](https://www.korea.edu/mbshome/mbs/en/index.do),** Seoul, Korea, *Mar. 2018 - Feb. 2024*
@@ -61,10 +56,6 @@
         - Low power computing
 - **Infrastructure**
     - **Kubernetes**
-
-<!-- 안녕하세요! 엔지니어링으로 세상에 존재하는 다양한 문제를 해결하고 싶은 개발자 정경륜입니다.
-
-현재는 Data engineering과 MLOps에 관심을 가지고 공부하고 있습니다.🙂 -->
 
 ### About my github
 
