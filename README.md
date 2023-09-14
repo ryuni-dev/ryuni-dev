@@ -23,7 +23,7 @@
 
 
 > **[ETRI](https://www.etri.re.kr/eng/main/main.etri),** Research Intern, *Jan. 2023 - Feb. 2023*
-> - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps
+> - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps Research
 > - Proposed and demonstrated the establishment of an ML Serving platform
 >   - Constructed a platform using KServe, allowing for easy registration of machine learning models on the web and obtaining endpoints effortlessly.
 > - Created a Python SDK for improved accessibility to data storage within the research lab
