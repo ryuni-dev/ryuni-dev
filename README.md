@@ -12,51 +12,54 @@
 <h4 align="center">Stay hungry, stay foolish.</h3>
 <!-- <div align=center> -->
 
-### About me
-> **[Corca](https://www.corca.team/),** MLOps Engineer Intern, *Jun. 2023 - Aug. 2023*
-> - Demand Side Platform(DSP) that predicts the value of online advertising placements through real-time bidding system.
->   - Responsible for DSP release management.
->   - Improved CI/CD, testing environment.
->   - Documented DSP testing, release, and infrastructure procedures.
->   - Established EKS infrastructure, including building Airflow on top of EKS using KubernetesExecutor.
->     - Documented the process of utilizing EKS and setting up Airflow.
-> - Additionally, engaged in Security Task Force (TF) activities and conducted research on Knowledge-Based Language Model (LLM) Retriever.
+### Work Experience
+> **[NAVER](https://navercorp.com/)**, Data Engineer, *Dec. 2023 - current*
+
+> **[Corca](https://www.corca.team/)**, MLOps Engineer Intern, *Jun. 2023 - Aug. 2023*
+> 
+> Demand Side Platform(DSP) that predicts the value of online advertising placements through real-time bidding system.
+> - Responsible for DSP release management.
+> - Improved testing environment.
+> - Enhanced CI/CD environment.
+> - Established EKS infrastructure, including building Airflow on top of EKS using KubernetesExecutor.
 
 
-> **[ETRI](https://www.etri.re.kr/eng/main/main.etri),** Research Intern, *Jan. 2023 - Feb. 2023*
+> **[ETRI](https://www.etri.re.kr/eng/main/main.etri)**, Research Intern, *Jan. 2023 - Feb. 2023*
 > - Cyberbrain Lab, SODAS+(Smart Open Data as a Service), MLOps Research
 > - Proposed and demonstrated the establishment of an ML Serving platform
 >   - Constructed a platform using KServe, allowing for easy registration of machine learning models on the web and obtaining endpoints effortlessly.
 > - Created a Python SDK for improved accessibility to data storage within the research lab
 >   - Reduced previously repetitive 30-40 lines of code to a single line.
 > - Established and connected a data visualization server within the SODAS+ Open Data Analysis Platform
-> - Built an Infrastructure Documentation site for the research lab
-> - Conducted research on the Solid Protocol and topics related to data sovereignty.
 
+### Education
 > **[Korea University](https://www.korea.edu/mbshome/mbs/en/index.do),** Seoul, Korea, *Mar. 2018 - Feb. 2024*
 > - Major in Computer Science and Engineering
 
 ### I'm interested in 
-- **Search**
-    - **Information Retrieval**
-    - **Vector Search**
-    - Recommended System
-    - **Knowledge Based LLM Retriever**
-    - **Knowledge Graph & LLM agent**
-      
 - **Data Engineering**
     - **Airflow**
+    - **Spark**
     - **Kafka**
-    - Spark
+    - **Data Platform**
     - CDC
-    - Data Platform
+ 
 - **MLOps**
     - ML Lifecycle
     - Efficiency AI
     - MLSys
         - Low power computing
+          
 - **Infrastructure**
     - **Kubernetes**
+
+- **Search**
+    - **Information Retrieval**
+    - **Vector Search**
+    - Recommended System
+    - RAG
+    - Knowledge Based LLM Retriever
+    - Knowledge Graph
 
 ### About my github
 
